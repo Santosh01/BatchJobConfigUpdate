@@ -21,8 +21,7 @@ import org.apache.commons.lang3.StringUtils;
 
 
 /**
- *<p>This class have been implemented to update job configuration files
- *(*.script.xml and *.template.xml) from FM01, FM02 batch jobs.
+ *<p>This class have been implemented to update job configuration files.
  *</p>
  * @author Santosh Kumar Dubey
  */
